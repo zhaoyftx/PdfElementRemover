@@ -1,5 +1,5 @@
-这是一个可视化的PDF元素删除工具，可以对全部页面中的元素按类型、坐标、颜色进行匹配、无损删除。
-This is a visual PDF element deletion tool, which can match elements in all pages by type, coordinate and color, and delete them losslessly.
+这是一个可视化的PDF元素删除工具，可以对全部页面中的元素(包括PDF水印)按类型、坐标、颜色进行匹配、无损删除。
+This is a visual PDF element deletion tool, which can match elements(including PDF watermark) in all pages by type, coordinate and color, and delete them losslessly.
 
 ![1.jpg](./1.jpg)
 ![2.jpg](./2.jpg)
