@@ -7,7 +7,8 @@ This is a professional visual PDF element removal tool capable of non-destructiv
 
 
 
-![v0.8 功能演示](./Ver 0.8.mp4)
+
+![v0.8 功能演示](./Ver0.8.mp4)
 ![自动剪切1](./ver0.6.gif)
 ![自动剪切2](./ver0.6_2.gif)
 ![区间匹配](./区间匹配-对比.gif)
